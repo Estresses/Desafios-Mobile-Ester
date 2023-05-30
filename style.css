@@ -1,0 +1,21 @@
+.links{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+a{
+    background-color:palevioletred;
+    padding: 5px;
+    margin: 5px 500px 0px 500px;
+    text-decoration: none;
+    color:white;
+    text-shadow: 2px 0px 5px black ;
+    border-radius: 16px;
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(0, 26, 255);
+    
+}
